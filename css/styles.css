@@ -1,5 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&family=Roboto:wght@400;500;700;900&display=swap');
 
+:root {
+    --first-color: #4d5ae5;
+    --next-color: #2f2e42;
+    --body-color: #434455;
+    --logo-color: #4d5ae5;
+    --span-color: #2e2f42;
+    --link-color: #2e2f42;
+    --button-all-color: #4d5ae5;
+    --button-all-background-color: #F4F4FD;
+    --mail-color: #434455;
+    --link-studio-color: #2e2f42;
+    --filter-all-color: #4d5ae5;
+    --filter-all-background-color: #f4f4fd;
+    --heading_app-color: #2e2f42;
+    --acapit_app-color: #434455;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
     color: var(--body-color);
@@ -61,22 +78,7 @@ body {
     background-color: #404bbf;
 }
 
-:root {
-    --first-color: #4d5ae5;
-    --next-color: #2f2e42;
-    --body-color: #434455;
-    --logo-color: #4d5ae5;
-    --span-color: #2e2f42;
-    --link-color: #2e2f42;
-    --button-all-color: #4d5ae5;
-    --button-all-background-color: #F4F4FD;
-    --mail-color: #434455;
-    --link-studio-color: #2e2f42;
-    --filter-all-color: #4d5ae5;
-    --filter-all-background-color: #f4f4fd;
-    --heading_app-color: #2e2f42;
-    --acapit_app-color: #434455;
-}
+
 
 .logo {
     font-family: "Raleway", sans-serif;
